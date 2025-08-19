@@ -1,0 +1,16 @@
+:root{
+    --background-color-container: lightgray;
+    --background-color-header: lightgreen;
+    --background-color-content: lightblue;
+    --background-color-footer: red;
+    --width-header:700px;
+    --width-content:700px;
+    --width-footer:700px;
+    --height-header:100px;
+    --height-content:500px;
+    --height-footer:100px;
+    --font-title-content: 20px;
+    --font-subtitle-content: 15px;
+    --font-text-content: 10px;
+}
+    

@@ -1,0 +1,29 @@
+@import url('variable.css');
+
+#container{
+    background-color: var(--background-color-container); 
+}
+#header{
+    background-color: var(--background-color-header);
+    width: var(--width-header);
+    height: var(--heigth-header);
+}
+#content{
+    background-color: var(--background-color-content);
+    width: var(--width-content);
+    height: var(--heigth-content);
+}
+#title{
+    font-size: var(--font-title-content);
+}
+#subtitle{
+    font-size: var(--font-subtitle-content);
+}
+#text{
+    font-size: var(--font-text-content);
+}
+#footer{
+    background-color: var(--background-color-footer);
+    width: var(--width-footer);
+    height: var(--heigth-footer);
+}
